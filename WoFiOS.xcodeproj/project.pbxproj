@@ -190,6 +190,7 @@
 				TargetAttributes = {
 					B7EFEEB41A961F3D00D93FC0 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 56H62Y5EBN;
 					};
 					B7EFEECD1A961F3D00D93FC0 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -373,6 +374,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WoFiOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -383,6 +385,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WoFiOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -442,6 +445,7 @@
 				B7EFEEDA1A961F3D00D93FC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7EFEEDB1A961F3D00D93FC0 /* Build configuration list for PBXNativeTarget "WoFiOSTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +454,7 @@
 				B7EFEEDD1A961F3D00D93FC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
