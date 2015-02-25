@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B7786FF51A9E6E3A0031C774 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7786FF31A9E6E3A0031C774 /* Icon-Small@2x.png */; };
-		B7786FF61A9E6E3A0031C774 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7786FF41A9E6E3A0031C774 /* Icon-Small@3x.png */; };
 		B7786FF91A9E6E490031C774 /* Icon-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7786FF71A9E6E490031C774 /* Icon-Small-40@2x.png */; };
 		B7786FFA1A9E6E490031C774 /* Icon-Small-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7786FF81A9E6E490031C774 /* Icon-Small-40@3x.png */; };
 		B7786FFD1A9E6E590031C774 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7786FFB1A9E6E590031C774 /* Icon-60@2x.png */; };
@@ -17,6 +15,8 @@
 		B77870021A9E6E830031C774 /* Icon-Small-40.png in Resources */ = {isa = PBXBuildFile; fileRef = B77870011A9E6E830031C774 /* Icon-Small-40.png */; };
 		B77870051A9E6E900031C774 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = B77870031A9E6E900031C774 /* Icon-76.png */; };
 		B77870061A9E6E900031C774 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B77870041A9E6E900031C774 /* Icon-76@2x.png */; };
+		B77870091A9E78DF0031C774 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B77870071A9E78DF0031C774 /* Icon-Small@2x.png */; };
+		B778700A1A9E78DF0031C774 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B77870081A9E78DF0031C774 /* Icon-Small@3x.png */; };
 		B7EFEEBB1A961F3D00D93FC0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B7EFEEBA1A961F3D00D93FC0 /* main.m */; };
 		B7EFEEBE1A961F3D00D93FC0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B7EFEEBD1A961F3D00D93FC0 /* AppDelegate.m */; };
 		B7EFEEC11A961F3D00D93FC0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7EFEEC01A961F3D00D93FC0 /* ViewController.m */; };
@@ -44,8 +44,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B7786FF31A9E6E3A0031C774 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "AppIcon/Icon-Small@2x.png"; sourceTree = "<group>"; };
-		B7786FF41A9E6E3A0031C774 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@3x.png"; path = "AppIcon/Icon-Small@3x.png"; sourceTree = "<group>"; };
 		B7786FF71A9E6E490031C774 /* Icon-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-40@2x.png"; path = "AppIcon/Icon-Small-40@2x.png"; sourceTree = "<group>"; };
 		B7786FF81A9E6E490031C774 /* Icon-Small-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-40@3x.png"; path = "AppIcon/Icon-Small-40@3x.png"; sourceTree = "<group>"; };
 		B7786FFB1A9E6E590031C774 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@2x.png"; path = "AppIcon/Icon-60@2x.png"; sourceTree = "<group>"; };
@@ -54,6 +52,8 @@
 		B77870011A9E6E830031C774 /* Icon-Small-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-40.png"; path = "AppIcon/Icon-Small-40.png"; sourceTree = "<group>"; };
 		B77870031A9E6E900031C774 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "AppIcon/Icon-76.png"; sourceTree = "<group>"; };
 		B77870041A9E6E900031C774 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76@2x.png"; path = "AppIcon/Icon-76@2x.png"; sourceTree = "<group>"; };
+		B77870071A9E78DF0031C774 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "AppIcon/Icon-Small@2x.png"; sourceTree = "<group>"; };
+		B77870081A9E78DF0031C774 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@3x.png"; path = "AppIcon/Icon-Small@3x.png"; sourceTree = "<group>"; };
 		B7EFEEB51A961F3D00D93FC0 /* WoFiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WoFiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7EFEEB91A961F3D00D93FC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B7EFEEBA1A961F3D00D93FC0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -131,8 +131,8 @@
 				B7EFEEE41A96202100D93FC0 /* wof_final_spin.mp3 */,
 				B7EFEEE51A96202100D93FC0 /* wof_theme.mp3 */,
 				B7786FFF1A9E6E700031C774 /* Icon-Small.png */,
-				B7786FF31A9E6E3A0031C774 /* Icon-Small@2x.png */,
-				B7786FF41A9E6E3A0031C774 /* Icon-Small@3x.png */,
+				B77870071A9E78DF0031C774 /* Icon-Small@2x.png */,
+				B77870081A9E78DF0031C774 /* Icon-Small@3x.png */,
 				B77870011A9E6E830031C774 /* Icon-Small-40.png */,
 				B7786FF71A9E6E490031C774 /* Icon-Small-40@2x.png */,
 				B7786FF81A9E6E490031C774 /* Icon-Small-40@3x.png */,
@@ -253,7 +253,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B77870001A9E6E700031C774 /* Icon-Small.png in Resources */,
-				B7786FF61A9E6E3A0031C774 /* Icon-Small@3x.png in Resources */,
 				B77870061A9E6E900031C774 /* Icon-76@2x.png in Resources */,
 				B7786FF91A9E6E490031C774 /* Icon-Small-40@2x.png in Resources */,
 				B7EFEEE61A96202100D93FC0 /* wof_applause.mp3 in Resources */,
@@ -262,9 +261,10 @@
 				B77870021A9E6E830031C774 /* Icon-Small-40.png in Resources */,
 				B7EFEEC41A961F3D00D93FC0 /* Main.storyboard in Resources */,
 				B7786FFE1A9E6E590031C774 /* Icon-60@3x.png in Resources */,
-				B7786FF51A9E6E3A0031C774 /* Icon-Small@2x.png in Resources */,
 				B7EFEEE91A96202100D93FC0 /* wof_double_buzz.mp3 in Resources */,
+				B778700A1A9E78DF0031C774 /* Icon-Small@3x.png in Resources */,
 				B7EFEEC91A961F3D00D93FC0 /* LaunchScreen.xib in Resources */,
+				B77870091A9E78DF0031C774 /* Icon-Small@2x.png in Resources */,
 				B7786FFA1A9E6E490031C774 /* Icon-Small-40@3x.png in Resources */,
 				B7EFEEC61A961F3D00D93FC0 /* Images.xcassets in Resources */,
 				B7EFEEEA1A96202100D93FC0 /* wof_final_spin.mp3 in Resources */,
