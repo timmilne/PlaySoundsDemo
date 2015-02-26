@@ -4,16 +4,27 @@ I used a Photoshop plugin action to generate these.  Details here:
 
 http://appicontemplate.com/android
 
-Work directory here:
+Use the illustrator file to create the icon and export the .png
 
-./Work
+Open the .psd template and go to the edit and save layer, drop the .png there, and then
+executed Window->Actions->App Icon Template as per the instructions.
 
-In that directory you'll find the illustrator file that I used to create the
-icon and the exported .png
+It kicked out all of the files in the App Icon [Squared] directory.  Really, it only
+took me the 20 minutes in Illustrator to mock up the png, the rest was less than 5
+minutes.
 
-I then opened the .psd template, and went to the edit and save layer, dropped
-the .png there, and then executed Window->Actions->App Icon Template as per
-the instructions.
+I dropped only the needed files into Xcode, and then associated them with the WoFiOS
+AppIcon in the global settings:
 
-It kicked out all of the files in this directory.  Really, it only took me the
-20 minutes in Illustrator to mock up the png, the rest was less than 5 minutes.
+Icon-Small.png
+Icon-Small@2x.png
+Icon-Small@3x.png
+Icon-Small-40.png
+Icon-Small-40@2x.png
+Icon-Small-40@3x.png
+Icon-60@2x.png
+Icon-60@3x.png
+Icon-76.png
+Icon-76@2x.png
+
+
