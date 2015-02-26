@@ -27,4 +27,3 @@ Icon-60@3x.png
 Icon-76.png
 Icon-76@2x.png
 
-
