@@ -1,4 +1,4 @@
-# WoFiOS
+# WoFiOSOld
 Wheel Of Fortune Sound Player for iOS
 
 This is a small, standalone iOS app. It plays some common Wheel of
