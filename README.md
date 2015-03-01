@@ -1,5 +1,5 @@
-# WoFiOSOld
-Wheel Of Fortune Sound Player for iOS
+# PlaySoundsTutorial
+This was the original Wheel Of Fortune Sound Player for iOS
 
 This is a small, standalone iOS app. It plays some common Wheel of
 Fortune sound effects for use with a Wheel of Fortune game.
